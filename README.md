@@ -16,6 +16,9 @@
     <a href="https://open.spotify.com/user/8vdu1y504ewnt9acbbeadux8l">
         <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
     </a>
+    <a href="https://steamcommunity.com/id/iseeface/">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    </a>
 </p>
 
 ---
