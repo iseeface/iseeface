@@ -63,7 +63,7 @@
 _“Without music, life would be a mistake.”_ — **Friedrich Nietzsche** 🎧
 <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8vdu1y504ewnt9acbbeadux8l&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8vdu1y504ewnt9acbbeadux8l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8vdu1y504ewnt9acbbeadux8l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
     </a>
 </p>
 
