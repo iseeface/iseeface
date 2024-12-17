@@ -71,38 +71,31 @@ _“Without music, life would be a mistake.”_ — **Friedrich Nietzsche** 🎧
 
 ### ☕ | **Support Me**
 If you enjoy my work and would like to support me so I can continue to grow, you can make a donation through the following platforms:
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://saweria.co/iseeface" target="_blank">
-            <img 
-                src="https://yt3.googleusercontent.com/ytc/AIdro_l4piIgNt6jLBZYvXiEd-rShtm8lfeQqfDNoN04qwkmhQ=s900-c-k-c0x00ffffff-no-rj" 
-                alt="Saweria Logo - Support Me via Saweria" 
-                width="50"
-            />
-        </a>
-        <p style="font-size: 14px; margin-top: 8px;">Saweria</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://www.buymeacoffee.com/iseeface" target="_blank">
-            <img 
-                src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" 
-                alt="Buy Me a Coffee Logo - Support Me via Buy Me a Coffee" 
-                width="50"
-            />
-        </a>
-        <p style="font-size: 14px; margin-top: 8px;">Buy Me a Coffee</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://trakteer.id/iseeface" target="_blank">
-            <img 
-                src="https://play-lh.googleusercontent.com/OYaEM1pE7YfjqogMH-2G_6h4yNCVB306SCgctXCsMwzPUTAn_69VA_tKb2QbpiDzv5w" 
-                alt="Trakteer Logo - Support Me via Trakteer" 
-                width="50"
-            />
-        </a>
-        <p style="font-size: 14px; margin-top: 8px;">Trakteer</p>
-    </div>
-</div>
+
+<p align="center">
+    <a href="https://saweria.co/iseeface" target="_blank">
+        <img 
+            src="https://yt3.googleusercontent.com/ytc/AIdro_l4piIgNt6jLBZYvXiEd-rShtm8lfeQqfDNoN04qwkmhQ=s900-c-k-c0x00ffffff-no-rj" 
+            alt="Saweria Logo" 
+            width="50"
+        />
+    </a>
+    <a href="https://www.buymeacoffee.com/iseeface" target="_blank">
+        <img 
+            src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" 
+            alt="Buy Me a Coffee Logo" 
+            width="50"
+        />
+    </a>
+    <a href="https://trakteer.id/iseeface" target="_blank">
+        <img 
+            src="https://play-lh.googleusercontent.com/OYaEM1pE7YfjqogMH-2G_6h4yNCVB306SCgctXCsMwzPUTAn_69VA_tKb2QbpiDzv5w" 
+            alt="Trakteer Logo" 
+            width="50"
+        />
+    </a>
+</p>
+
 <p align="center">
     <b>Thank you for your support! 🙌</b>
 </p>
