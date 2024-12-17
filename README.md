@@ -7,7 +7,7 @@
     <a href="https://linkedin.com/in/muhammad-farahat-a3622825b">
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discord.com/users/asabop">
+    <a href="https://discord.com/users/462149384105099274">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://letterboxd.com/iseeface">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🔭 | About Me
+### 🔭 | **About Me**
 - 🎓 **Background:** I'm currently pursuing a degree in **Computer Science** at **Gunadarma University**, where I'm immersing myself in the fascinating world of technology, coding, and systems design. From algorithms to databases, I’m on a journey to bridge the gap between innovative software and real-world applications.
 - 💻 **Interest:** JavaScript, Python, Discord Bot Development.
 - 🌍 **Based in:** Jakarta.
