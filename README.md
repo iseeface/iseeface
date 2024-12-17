@@ -10,6 +10,9 @@
     <a href="https://discord.com/users/asabop">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
+    <a href="https://letterboxd.com/iseeface">
+        <img src="https://img.shields.io/badge/Letterboxd-1F262C?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd Badge"/>
+    </a>
     <a href="mailto:muhammadfarahat@proton.me">
         <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
@@ -53,3 +56,53 @@
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> |
 | Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
+
+---
+
+### 🎶 | **Now Playing on Spotify**
+_“Without music, life would be a mistake.”_ — **Friedrich Nietzsche** 🎧
+<p align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8vdu1y504ewnt9acbbeadux8l&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8vdu1y504ewnt9acbbeadux8l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+    </a>
+</p>
+
+---
+
+### ☕ | **Support Me**
+If you enjoy my work and would like to support me so I can continue to grow, you can make a donation through the following platforms:
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://saweria.co/iseeface" target="_blank">
+            <img 
+                src="https://yt3.googleusercontent.com/ytc/AIdro_l4piIgNt6jLBZYvXiEd-rShtm8lfeQqfDNoN04qwkmhQ=s900-c-k-c0x00ffffff-no-rj" 
+                alt="Saweria Logo - Support Me via Saweria" 
+                width="50"
+            />
+        </a>
+        <p style="font-size: 14px; margin-top: 8px;">Saweria</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://www.buymeacoffee.com/iseeface" target="_blank">
+            <img 
+                src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" 
+                alt="Buy Me a Coffee Logo - Support Me via Buy Me a Coffee" 
+                width="50"
+            />
+        </a>
+        <p style="font-size: 14px; margin-top: 8px;">Buy Me a Coffee</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://trakteer.id/iseeface" target="_blank">
+            <img 
+                src="https://play-lh.googleusercontent.com/OYaEM1pE7YfjqogMH-2G_6h4yNCVB306SCgctXCsMwzPUTAn_69VA_tKb2QbpiDzv5w" 
+                alt="Trakteer Logo - Support Me via Trakteer" 
+                width="50"
+            />
+        </a>
+        <p style="font-size: 14px; margin-top: 8px;">Trakteer</p>
+    </div>
+</div>
+<p align="center">
+    <b>Thank you for your support! 🙌</b>
+</p>
