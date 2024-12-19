@@ -30,7 +30,7 @@
 - 🎓 **Background:** I'm currently pursuing a degree in **Computer Science** at **Gunadarma University**, where I'm immersing myself in the fascinating world of technology, coding, and systems design. From algorithms to databases, I’m on a journey to bridge the gap between innovative software and real-world applications.
 - 💻 **Interest:** JavaScript, Python, Discord Bot Development.
 - 🌍 **Based in:** Jakarta.
-- 🌱 **Currently Learning:** Neural Network, Tailwind, JavaScript, Python.
+- 🌱 **Currently Learning:** Neural Network, React, JavaScript, Python.
 - 🎮 **Hobbies:** Coding while Metal Headbanging.
 
 ---
@@ -47,7 +47,7 @@
 
 | Category        | Languages & Tools       |
 |-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
 | Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
 | Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
